@@ -12,10 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Noyan4K&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noyan4K&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Noyan4K&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ![snake svg](https://github.com/Noyan4K/Noyan4K/blob/output/github-contribution-github-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
