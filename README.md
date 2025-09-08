@@ -12,16 +12,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Noyan4K&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noyan4K&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Noyan4K&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://id.pinterest.com/pin/30540103720278976/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Noyan4K&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Noyan4K&icon=5&color=4)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/noyan4k/noyan4k/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
