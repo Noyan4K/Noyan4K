@@ -19,4 +19,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Noyan4K&icon=5&color=4)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/noyan4k/noyan4k/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
