@@ -16,9 +16,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Noyan4K&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Noyan4K&icon=5&color=4)](https://visitcount.itsvg.in)
-
-![snake svg](https://github.com/Noyan4K/Noyan4K/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Noyan4K/Noyan4K/blob/output/github-contribution-github-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
