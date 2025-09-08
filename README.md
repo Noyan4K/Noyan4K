@@ -8,7 +8,7 @@
 ---
 
 ## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/Noyan4K/Noyan4K/manual-run-output/docker/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Noyan4K/snk/refs/heads/manual-run-output/docker/github-contribution-grid-snake-dark.svg)
 
 <!-- Bisa juga pakai GIF -->
 <!-- ![Snake animation](https://raw.githubusercontent.com/Noyan4K/Noyan4K/manual-run-output/docker/github-contribution-grid-snake.gif) -->
