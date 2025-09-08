@@ -12,6 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Noyan4K&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Noyan4K&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![snake svg](https://github.com/Noyan4K/Noyan4K/blob/output/github-contribution-github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Noyan4K/Noyan4K/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
