@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Noyan4K  
-# I am a student at SMK TRISIMA I was from Computer and Network Engineering. I play Github for fun and to learn coding. Thank you. I Love 🤍 "Sendok Nyam Nyam"
+# I am a student at SMK TRISIMA I was from Computer and Network Engineering. I play Github for fun and to learn coding. Thank you. My gf 🤍 "Sendok Nyam Nyam"
 I am 15 young old and my name is 
 # S.Gilang.P
 ## 📊 GitHub Stats
