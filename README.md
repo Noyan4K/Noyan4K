@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Noyan4K&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://id.pinterest.com/pin/30540103720278976/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Noyan4K&limit=5&theme=dark&combine_all_yearly_contributions=true)
