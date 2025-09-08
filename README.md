@@ -19,6 +19,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Noyan4K&icon=5&color=4)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Noyan4K/Noyan4K/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Noyan4K/Noyan4K/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
