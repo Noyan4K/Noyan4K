@@ -13,7 +13,11 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=noyan4k.noyan4k&left_color=darkred&right_color=crimson&left_text=lieble"  />
 </div>
+<div align="right">
+  <img height="200" src="https://scontent.fcgk27-2.fna.fbcdn.net/v/t1.15752-9/543313791_3191754610974995_6851711974586661445_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=6Rq5fKBDW6cQ7kNvwEzltQ4&_nc_oc=AdlUcWnMn-fXTmj0WNFSKksMiEv3-xQUfjElZojJ2jFsJuTlOC-rHm_WWPRKpXXVqKw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fcgk27-2.fna&oh=03_Q7cD3QG9mGCMK6kiwi6occ8OPT6_oxcC4ggR8jXN3p9IQ9JefA&oe=68E6E817"  />
+</div>
 
+###
 ###
 ###
 ![](https://github-readme-stats.vercel.app/api?username=Noyan4K&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
